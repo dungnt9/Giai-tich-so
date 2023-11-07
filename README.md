@@ -1,2 +1,2 @@
 # Giải tích số
-Trên đây là code trong Học phần Giải tích số - Kì 2022.2
+Trên đây là code tham khảo từ nhiều nguồn xoay quanh Học phần Giải tích số - Kì 2022.2
